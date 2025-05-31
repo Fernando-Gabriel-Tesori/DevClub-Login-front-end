@@ -37,15 +37,6 @@ O tema escuro utiliza a cor primária `rgb(158, 1, 220)`, ideal para representar
 bash
 Copiar código
 
-## 📸 Preview
-
-## 📸 Preview
-
-![Preview](./preview.png)
-![Preview 2](./preview2.png)
-![Preview 3](img/preview3.png)
-![Preview 4](./preview4.png)
-
 ## 🧪 Como Executar
 
 1. Clone o repositório:
