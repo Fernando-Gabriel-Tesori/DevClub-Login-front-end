@@ -39,10 +39,12 @@ Copiar código
 
 ## 📸 Preview
 
-![Preview](./img/preview.png)
-![Preview 2](./img/preview2.png)
-![Preview 3](./img/preview3.png)
-![Preview 4](./img/preview4.png)
+## 📸 Preview
+
+![Preview](./preview.png)
+![Preview 2](./preview2.png)
+![Preview 3](./preview3.png)
+![Preview 4](./preview4.png)
 
 ## 🧪 Como Executar
 
