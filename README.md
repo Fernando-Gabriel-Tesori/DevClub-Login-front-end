@@ -1,96 +1,60 @@
-# 🌐 Global Corporate UI – Responsive Theme with Dark Mode
+# 🌐 DevClub Login Page Clone
 
-A modern and professional responsive UI built with HTML, CSS, and JavaScript. Designed for enterprise-level applications, this interface includes a sleek dark mode toggle, semantic structure, and a scalable design system using CSS variables.
+Este é um projeto educacional que replica com melhorias visuais a página de login do DevClub, focando em responsividade, acessibilidade e um **modo escuro profissional** com identidade visual corporativa global.
 
-## ✨ Features
+## 🚀 Funcionalidades
 
-- 🎨 **Light and Dark Mode** toggle with smooth transitions  
-- ⚙️ **CSS Variables** for easy theming and maintainability  
-- 🧱 **Reusable Components** like Hero, Footer, and Header  
-- 💡 **Clean and Accessible Typography**  
-- 📱 **Fully Responsive** for mobile and desktop layouts  
-- 🌍 **Scalable for Global Applications**
+- ✅ Layout responsivo e moderno
+- 🌙 Suporte a modo escuro com `JavaScript`
+- 🎨 Paleta de cores personalizada com `CSS Variables`
+- 📱 Mobile First Design
+- 💻 Código limpo e semântico
 
----
+## 🎨 Tema Escuro Corporativo
+
+O tema escuro utiliza a cor primária `rgb(158, 1, 220)`, ideal para representar inovação e tecnologia, com contraste refinado em texto e elementos interativos.
+
+## 🧩 Tecnologias Utilizadas
+
+- HTML5 + CSS3
+- JavaScript (modo escuro)
+- CSS Variables para suporte a temas
+- Flexbox e media queries para responsividade
+
+## 🗂️ Estrutura de Pastas
+
+📁 projeto/
+┣ 📁 img/
+┃ ┣ 📄 preview.png
+┃ ┣ 📄 preview2.png
+┃ ┣ 📄 preview3.png
+┃ ┗ 📄 preview4.png
+┣ 📄 index.html
+┣ 📄 style.css
+┣ 📄 script.js
+┗ 📄 README.md
+
+bash
+Copiar código
 
 ## 📸 Preview
 
-![Preview](./img/preview.png) 
-![Preview](./preview2.png)
-![Preview](./preview3.png)
-![Preview](./preview4.png)   
+![Preview](./img/preview.png)
+![Preview 2](./img/preview2.png)
+![Preview 3](./img/preview3.png)
+![Preview 4](./img/preview4.png)
 
----
+## 🧪 Como Executar
 
-## 🚀 Technologies
+1. Clone o repositório:
+Acesse a pasta do projeto:
 
-- HTML5
-- CSS3 (custom properties, media queries)
-- JavaScript (vanilla)
+bash
+Copiar código
+cd devclub-login-clone
+Abra o index.html no seu navegador.
 
----
+📄 Licença
+Este projeto é livre para fins educacionais e não possui vínculo comercial com o DevClub.
 
-## 📁 File Structure
-
-/project-root
-│
-├── index.html
-├── style.css
-├── script.js
-└── assets/
-└── images/
-
-pgsql
-Copiar
-Editar
-
----
-
-## 🔄 Theme Toggle
-
-The dark mode toggle updates the UI in real time by toggling the `.dark` class on the `<body>` element. Colors are managed with CSS custom properties (`--var`) for clarity and control.
-
-```js
-const toggleButton = document.getElementById('theme-toggle');
-toggleButton.addEventListener('click', () => {
-  document.body.classList.toggle('dark');
-});
-🛠 Customization
-To adjust colors, simply modify the CSS variables in the :root and body.dark blocks:
-
-css
-Copiar
-Editar
-:root {
-  --background-color: #f7f7f7;
-  --text-color: #2a2a72;
-  --accent-color: #9e01dc;
-  ...
-}
-
-body.dark {
-  --background-color: #121212;
-  --text-color: #ffffff;
-  --accent-color: #c84bff;
-  ...
-}
-📌 Best Practices Applied
-Semantic HTML structure
-
-Smooth CSS transitions
-
-Mobile-first responsive design
-
-Clear class naming and BEM-inspired style
-
-Readable and scalable color system
-
-🧩 Future Improvements
-Save theme preferences using localStorage
-
-Add ARIA support for accessibility
-
-Componentize with React or Web Components
-
-Internationalization (i18n) support
-
+Desenvolvido com foco em boas práticas, acessibilidade e performance visual para projetos reais.
