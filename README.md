@@ -43,7 +43,7 @@ Copiar código
 
 ![Preview](./preview.png)
 ![Preview 2](./preview2.png)
-![Preview 3](./preview3.png)
+![Preview 3](./img/preview3.png)
 ![Preview 4](./preview4.png)
 
 ## 🧪 Como Executar
