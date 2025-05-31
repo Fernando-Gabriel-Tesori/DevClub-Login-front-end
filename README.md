@@ -15,7 +15,7 @@ A modern and professional responsive UI built with HTML, CSS, and JavaScript. De
 
 ## 📸 Preview
 
-![Preview](./preview.png) 
+![Preview](/preview.png) 
 ![Preview](./preview2.png)
 ![Preview](./preview3.png)
 ![Preview](./preview4.png)   
